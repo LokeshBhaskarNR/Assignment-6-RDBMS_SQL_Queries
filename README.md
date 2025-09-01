@@ -4,7 +4,7 @@ RDBMS SQL Queries - Creation, Normalization, Insertion, Views, Stored Procedures
 ---
 
 
-##  Original Table 
+##  Original Table :
 
 ```
 CREATE TABLE MeterReading (
@@ -22,7 +22,7 @@ CREATE TABLE MeterReading (
 ```
 ---
 
-## 🔹 Normalization Steps
+##  Normalization
 
 ### 1NF – Remove repeating/duplicate data
 
