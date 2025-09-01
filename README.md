@@ -6,7 +6,7 @@ RDBMS SQL Queries - Creation, Normalization, Insertion, Views, Stored Procedures
 
 ##  Original Table 
 
-
+```
 CREATE TABLE MeterReading (
     MeterReadingID INT PRIMARY KEY,
     MeterID INT,
@@ -19,6 +19,7 @@ CREATE TABLE MeterReading (
     Status BIT,
     Remarks NVARCHAR(255)
 );
+```
 ---
 
 ## 🔹 Normalization Steps
